@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+# CV PDF
+[You can view my CV in PDF by clicking this link: ](https://anissabaird.github.io/files/BairdCVJuly2025.pdf)
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
