@@ -12,7 +12,7 @@ redirect_from:
 <embed
   src="https://anissabaird.github.io/files/BairdCVMay2025.pdf"
   type="application/pdf"
-  width="100%"
+  width="80%"
   height="1000"
   title="Embedded PDF Viewer"
 />
