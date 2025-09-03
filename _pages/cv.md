@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[You can view my CV in PDF by clicking this link: ](https://anissabaird.github.io/files/BairdCVMay2025.pdf)
+[If the below preview does not work on your current browser, you can can also view my CV in PDF format by clicking this link: ](https://anissabaird.github.io/files/BairdCVMay2025.pdf)
 
 <embed
   src="https://anissabaird.github.io/files/BairdCVMay2025.pdf"
