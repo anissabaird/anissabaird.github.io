@@ -23,6 +23,8 @@ Publications
 Conference Presentations
 ======
 
+**Baird, A.** (2025, June 19). _Social context and its influence on phonetic convergence in gender nonconforming individuals_ [Conference Talk]. Graduate Language Research Day, Toronto, ON, Canada.
+
 **Baird, A.** (2025, April 5). _Phonetic convergence & gender nonconformity: What is “social” enough?_ [Conference Talk]. Montréal-Ottawa-Toronto-Hamilton Phonology/Phonetics Workshop ([moth]), Toronto, ON, Canada.
 
 **Baird, A.**, Hupalo, N., Khurram, M., & Atkinson, E. (2024, September 6). _Five- & Eight-Year-Olds’ Interpretation of Ambiguous_ They [Conference Talk]. AMLaP, Edinburgh, Scotland.
